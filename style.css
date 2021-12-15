@@ -14,3 +14,13 @@
 }
 
 /* Make this prettier! */
+
+.num, .operator, .equal , .reset{
+    background-color: aqua;
+    padding: 15px;
+}
+input{
+    margin-bottom: 10px;
+    width: 30%;
+    height:20%;
+}
